@@ -6,10 +6,7 @@ public class PaymentByCreditCard implements PaymentStrategy {
 	@Override
 	public void collectPymentDetails(){
 		card = new CreditCard("Card number", "expiryDate", "cvv");
-		
-		
-		System.out.println("Collecting Card Details...");
-				
+		System.out.println("Collecting Card Details...");		
 	}
 	
 	@Override

@@ -10,7 +10,6 @@ public class PaymentByPayPal implements PaymentStrategy {
 		password = "PayPal Password";
 		
 		System.out.println("Collecting PatPal Account Details...");
-				
 	}
 	
 	@Override
