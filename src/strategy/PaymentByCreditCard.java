@@ -1,5 +1,7 @@
 package strategy;
 
+import main.CreditCard;
+
 public class PaymentByCreditCard implements PaymentStrategy {
 	private CreditCard card;
 	

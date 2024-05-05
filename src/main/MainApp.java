@@ -1,3 +1,4 @@
+package main;
 import strategy.PaymentByCreditCard;
 import strategy.PaymentByPayPal;
 

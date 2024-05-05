@@ -1,3 +1,4 @@
+package main;
 import strategy.PaymentStrategy;
 
 public class PaymentService {
@@ -15,7 +16,7 @@ public class PaymentService {
 		}
 	}
 	
-	private int getTotal(){
+	public int getTotal(){
 		return includeDelivery ? cost + 10 : cost;
 	}
 

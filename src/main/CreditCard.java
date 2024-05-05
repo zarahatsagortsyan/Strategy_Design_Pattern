@@ -1,4 +1,4 @@
-package strategy;
+package main;
 public class CreditCard {
     private int amount = 1000;
     private final String number;
@@ -17,5 +17,17 @@ public class CreditCard {
     
     public int getAmount(){
     	return amount;
+    }
+    
+    public String getNumber() {
+    	return this.number;
+    }
+
+    public String getCVV() {
+    	return this.cvv;
+    }
+
+    public String getDate() {
+    	return this.date;
     }
 }
