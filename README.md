@@ -7,3 +7,4 @@
 6. Այնուհետև dev branch -ը merge անել main branch-ի մեջ.
 7: Եվ push անել main branch-ը
 8: Նաև ավելացնել README.md ֆայլը, որտեղ անհրաժեշտ  է գրել նկարագրություն.
+![image](https://github.com/zarahatsagortsyan/Strategy_Design_Pattern/assets/69346017/4f86aca1-30e9-4c78-91c5-61740fc1f9f1)
